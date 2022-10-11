@@ -1,4 +1,4 @@
-# Codedamn Projects - Google Keep Notes Clone
+# Codedamn Projects - Simle Number Guessing Game
 This is one of the many projects available on codedamn to reinforce your learning by building. If you want to become a full stack developer and learn by practicing, feel free to attempt this challenge. Feel free to check out the codedamn Full Stack Web Development Learning Path to learn more about how to become an awesome full stack developer.
 
 ## Instructions

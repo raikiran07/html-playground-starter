@@ -9,7 +9,7 @@ You can use any tools or technologies you like to help you complete the challeng
 You can get the complete idea of the project from checking out the /designs folder.
 
 ## Demo:
-![Screen shot of the output](https://raw.githubusercontent.com/codedamn-projects/bird-app/master/assets/poster.png)
+![Screen shot of the output](https://raw.githubusercontent.com/raikiran07/html-playground-starter/master/asset/gussingright.png)
 
 
 
